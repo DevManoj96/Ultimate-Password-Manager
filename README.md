@@ -1,6 +1,6 @@
 # 🔐 Ultimate Password Manager
 
-A lightweight and secure password manager built using **Python** and **Tkinter**, designed for simplicity and privacy. It uses AES encryption (via the `cryptography` library) to keep your passwords safe. The application provides a clean graphical interface to store and retrieve login credentials securely.
+A lightweight and secure password manager built using **Python** and **Tkinter**, designed for simplicity and privacy. The application provides a clean graphical interface to store and retrieve login credentials securely.
 
 ---
 ## ✨ Features
